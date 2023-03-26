@@ -83,10 +83,8 @@ header.scrolled nav a {
 
 
 .section-1 .image-box img {
-    position: absolute;
     width: 100%;
     z-index: -1;
-    
 }
 
 .book {
@@ -105,7 +103,6 @@ header.scrolled nav a {
 .book h2:hover {
     -webkit-text-stroke: 4px #fff;
     color: transparent;
-    /*text-shadow: 0 0 40px #fff;*/
 }
 
 .book p{
